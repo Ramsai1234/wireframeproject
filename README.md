@@ -6,13 +6,20 @@ To design a wire frame for a website.
 ## DESIGN STEPS:
 
 ### Step 1:
-Write your design steps here 
+Resize canvas to website layout
 
 ### Step 2:
-Write your design steps here
+Follow a grid and make a website box
+
+### step 3:
+Input required elements
 
 ## OUTPUT:
-include your output screenshots 
+![output](./sai.png)
+
+![output](./sai2.png)
+
+![output](./sai3.png)
 
 
 ## Result:
