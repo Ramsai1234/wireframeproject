@@ -15,11 +15,11 @@ Follow a grid and make a website box
 Input required elements
 
 ## OUTPUT:
-![output](./sai.png)
+![output](sai.png)
 
-![output](./sai2.png)
+![output](sai2.png)
 
-![output](./sai3.png)
+![output](sai3.png)
 
 
 ## Result:
